@@ -208,7 +208,7 @@ ggplot(data = abalone_clean,
 
 ### Creating a table with model coefficients, 95% confidence intervals, and more
 
-**Note:** both these functions are from `gtsummary`.
+**Note:** this function is from `flextable`.
 
 ```{r}
 #| label: abalone-table
